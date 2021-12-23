@@ -1,0 +1,6 @@
+.git/
+.gcloudignore
+.gitignore
+cloudbuild.yaml
+README.md
+!*.rpm
